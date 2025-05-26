@@ -12,8 +12,7 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ## PROGRAM
 ## client:
 ```
-DARIO G
-212222230027
+
 import socket 
 s = socket.socket() 
 host = socket.gethostname() 
@@ -35,8 +34,7 @@ print('connection closed')
 ```
 ## server:
 ```
-DARIO G
-212222230027
+
 import socket 
 port = 60000 
 s = socket.socket() 
